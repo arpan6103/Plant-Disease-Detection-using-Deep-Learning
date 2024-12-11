@@ -1,1 +1,1 @@
-# Plant-Disease-Detection-using-Deep-Learning
+Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
